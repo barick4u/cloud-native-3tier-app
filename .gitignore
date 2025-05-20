@@ -1,0 +1,12 @@
+__pycache__/
+node_modules/
+.env
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+terraform.tfvars
+
+# System files
+.DS_Store
